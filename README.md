@@ -1,6 +1,6 @@
 # Personal Blog
 
-A personal blog web app using Flask3, SQLite3, HTML, and CSS.
+A personal blog web app using Flask, SQLite3, HTML, and CSS.
 
 __* Instructions:__
   1. Clone the repository to your local machine
