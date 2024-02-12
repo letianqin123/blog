@@ -1,0 +1,17 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - conda==23.11.0
+  - setuptools
+  - pip
+  - wheel
+  - conda-content-trust
+  - conda-libmamba-solver
+  - menuinst
+  - python.app
+  - make
+  - git
+  - conda-forge::flask
+prefix: /Users/letian/miniconda3
