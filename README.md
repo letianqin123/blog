@@ -1,11 +1,9 @@
-# hw-blog
+# Personal Blog
 
-<<<<<<< HEAD
-* hw03-blog
-* Assigned: 2 Feb 2024
-* Due: 11 Feb
-* template repo: https://github.com/nuwebdev/hw-blog
-* github-classroom invitation: https://classroom.github.com/a/QKgcJSQm
-=======
-* instructions: [assignment.md](assignment.md)
->>>>>>> a4a37b5e3c318efc545d254add609e615ab0f9f3
+A personal blog web app using Flask3, SQLite3, HTML, and CSS.
+
+__* Instructions:__
+  1. Clone the repository to your local machine
+  2. Change to the project directory.
+  3. To initialize the database, run: flask --app flaskr init-db
+  4. To run the app, run: flask --app flaskr run --debug
